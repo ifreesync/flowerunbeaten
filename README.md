@@ -13,22 +13,15 @@ I'm a Java developer with a passion for Spring Boot/Spring Cloud/Micro Service. 
 
 Here are some of the technologies and tools I'm proficient with:
 
-- Spring
-- Spring MVC
-- Spring Boot
-- Spring Cloud
-- Spring Cloud Alibaba
+- Spring/Spring MVC
+- Spring Boot/Spring Cloud/Spring Cloud Alibaba
+- Mybatis/Mybatis-Plus
+- MySQL/Redis
 - Shiro
-- Mybatis
-- Mybatis-Plus
-- Flowable
-- MySQL
-- Redis
+- Flowable/Activity
+- Git/SVN/Maven
 - Linux
-- Git
-- Maven
-- IntelliJ IDEA
-- Navicat
+- IntelliJ IDEA/Navicat/Xshell
 
 <!--
 ## 🌟 Projects
