@@ -30,18 +30,20 @@ Here are some of the technologies and tools I'm proficient with:
 - IntelliJ IDEA
 - Navicat
 
+<-
 ## 🌟 Projects
 
 - [项目1](https://github.com/[你的Github用户名]/[项目1]): [项目1的简要介绍]
 - [项目2](https://github.com/[你的Github用户名]/[项目2]): [项目2的简要介绍]
 - [项目3](https://github.com/[你的Github用户名]/[项目3]): [项目3的简要介绍]
+->
 
 ## 🌍 Find me elsewhere
 
-- 📝 [Blog
+- 📝 [Blog](https://www.ifreesync.com/)
 
 ## 💬 Let's connect
 
-If you want to say hi, have a chat or discuss opportunities, feel free to drop me an email at ryanwang1491@gmail.com or connect with me on social media.
+If you want to say hi, have a chat or discuss opportunities, feel free to drop me an email at ryanwang1491@gmail.com.
 
 Thanks for visiting! 👀
