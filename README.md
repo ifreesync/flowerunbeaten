@@ -30,7 +30,7 @@ Here are some of the technologies and tools I'm proficient with:
 - IntelliJ IDEA
 - Navicat
 
-<！--
+<!--
 ## 🌟 Projects
 
 - [项目1](https://github.com/[你的Github用户名]/[项目1]): [项目1的简要介绍]
